@@ -9,11 +9,13 @@
     body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #F0F8FF;
+    background-color: #E6E6FA;
 }
     
     header {
-    background-color: #20B2AA;
+    background-color: #BA55D3;
+    
+
     }
     .logo{
     width: 70px;
@@ -28,7 +30,7 @@
     align-items: center;
     }
     .barraDePesquisa {
-        background-color: ;  
+        background-color:#BA55D3;  
         }
     .barraDePesquisa input[type="text"] {
     padding: 5px;
@@ -37,7 +39,7 @@
     }
     .barraDePesquisa button {
     padding: 5px 10px;
-    background-color: ;
+    background-color:#4B0082 ;
     color: #fff;
     border: none;
     cursor: pointer;
