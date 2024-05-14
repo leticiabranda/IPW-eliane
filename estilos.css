@@ -9,11 +9,11 @@
     body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: ;
+    background-color: #F0F8FF;
 }
     
     header {
-    background-color: ;
+    background-color: #20B2AA;
     }
     .logo{
     width: 70px;
@@ -43,12 +43,12 @@
     cursor: pointer;
     }
     .fraseDeImpacto {
-    background-color: #E6E6FA;
-    color: #6A5ACD;
+    background-color: #20B2AA ;
+    color:#008080;
     margin-top: 100px;
     }
     .fraseDeImpacto:hover {
-        color: #A020F0;
+        color: #00FFFF;
         ;
           }
     nav ul {
